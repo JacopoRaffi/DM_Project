@@ -1,0 +1,6 @@
+numpy==2.1.1
+pandas==2.2.3
+seaborn==0.13.2
+scikit-learn==1.5.2
+datasets==3.0.1
+pyclustering==0.10.1.2
