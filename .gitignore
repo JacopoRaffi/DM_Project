@@ -1,2 +1,2 @@
-data/complete_dataset.csv
+data/complete_dataset*.csv
 *__pycache__/
