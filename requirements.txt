@@ -13,3 +13,4 @@ imbalanced-learn==0.12.4
 keras==3.7.0
 keras-tuner==1.4.7
 tensorflow==2.18.0
+scikit-optimize==0.10.2
