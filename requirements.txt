@@ -14,3 +14,7 @@ keras==3.7.0
 keras-tuner==1.4.7
 tensorflow==2.18.0
 scikit-optimize==0.10.2
+lime==0.2.0.1
+interpret==0.6.8
+XAI-Library==0.0.4
+shap==0.46.0
