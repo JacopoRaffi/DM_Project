@@ -1,3 +1,4 @@
 data/*.csv
 data/ml_datasets/*
 *__pycache__/
+*pkl
