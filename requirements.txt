@@ -18,3 +18,4 @@ lime==0.2.0.1
 interpret==0.6.8
 XAI-Library==0.0.4
 shap==0.46.0
+pyclustering==0.10.1.2
