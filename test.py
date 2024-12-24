@@ -58,7 +58,7 @@ dev_label = dev_set.pop('label')
 test_label = test_set.pop('label')
 
 print("\ntraining-RF")
-model = clf = tree.DecisionTreeClassifier(class_weight=None, criterion='entropy', max_features=8, min_samples_leaf=5, min_samples_split=20)
+model = RandomForestClassifier(class_weight=None, criterion='entropy', max_features=8, min_samples_leaf=5, min_samples_split=20, n_estimators=150)
 model.fit(dev_set, dev_label)
 
 test_predicitions = model.predict(test_set)
