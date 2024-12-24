@@ -19,4 +19,5 @@ interpret==0.6.8
 XAI-Library==0.0.4
 shap==0.46.0
 pyclustering==0.10.1.2
-dice-ml==0.11
+# dice-ml==0.11
+nbformat==5.10.4
